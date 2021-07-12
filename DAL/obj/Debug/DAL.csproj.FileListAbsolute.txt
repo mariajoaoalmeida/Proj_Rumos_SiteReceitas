@@ -1,0 +1,7 @@
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\bin\Debug\DAL.dll.config
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\bin\Debug\DAL.dll
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\bin\Debug\DAL.pdb
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\obj\Debug\DAL.dll
+C:\Users\Utilizador\source\repos\CHEF_GATO_ADMIN\DAL\obj\Debug\DAL.pdb
